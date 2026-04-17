@@ -1,4 +1,3 @@
-```java
 /**
  * Event.java
  *
@@ -46,4 +45,4 @@ public class Event {
                 '}';
     }
 }
-```
+

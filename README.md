@@ -163,7 +163,7 @@ If you use this work, please cite:
 
 ## 🔗 Repository
 
-https://github.com/anandrawat138a/lightweight-stream
+https://github.com/AnandRawat138/lightweight-stream
 
 ---
 
